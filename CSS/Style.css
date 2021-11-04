@@ -3,6 +3,24 @@
 /* ================================================================================ */
 
 @font-face {
+  font-family: "MonumentExtended-light";
+  src: url("./MonumentExtended-light.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "MonumentExtended-bold";
+  src: url("./MonumentExtended-bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "MonumentExtended-regular";
+  src: url("./MonumentExtended-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
   font-family: "neueworld-ExtendedThin";
   src: url("./NeueWorld-ExtendedThin.woff") format("woff");
   font-weight: normal;
@@ -32,24 +50,7 @@
   font-weight: normal;
   font-style: normal;
 }
-@font-face {
-  font-family: "MonumentExtended-light";
-  src: url("./MonumentExtended-light.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: "MonumentExtended-bold";
-  src: url("./MonumentExtended-bold.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: "MonumentExtended-regular";
-  src: url("./MonumentExtended-regular.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
+
 
 * {
   box-sizing: border-box;
