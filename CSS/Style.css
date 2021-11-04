@@ -4,52 +4,52 @@
 
 @font-face {
   font-family: "neueworld-ExtendedThin";
-  src: url("./NeueWorld-ExtendedThin.woff") format("woff");
+  src: url("../NeueWorld-ExtendedThin.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "neueworld-SemiCondensedUltrabold";
-  src: url("./NeueWorld-SemiCondensedUltrabold.woff")
+  src: url("../NeueWorld-SemiCondensedUltrabold.woff")
     format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "neueworld-Ultrabold";
-  src: url("./NeueWorld-Ultrabold.woff") format("woff");
+  src: url("../NeueWorld-Ultrabold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "NeueWorld-SuperCondensedLight";
-  src: url("./NeueWorld-SuperCondensedLight.woff")
+  src: url("../NeueWorld-SuperCondensedLight.woff")
     format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "NeueWorld-CondensedRegular";
-  src: url("./NeueWorld-CondensedRegular.woff")
+  src: url("../NeueWorld-CondensedRegular.woff")
     format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "MonumentExtended-light";
-  src: url("./MonumentExtended-light.woff") format("woff");
+  src: url("../MonumentExtended-light.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "MonumentExtended-bold";
-  src: url("./MonumentExtended-bold.woff") format("woff");
+  src: url("../MonumentExtended-bold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "MonumentExtended-regular";
-  src: url("./MonumentExtended-regular.woff") format("woff");
+  src: url("../MonumentExtended-regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
