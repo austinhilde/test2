@@ -4,52 +4,52 @@
 
 @font-face {
   font-family: "neueworld-ExtendedThin";
-  src: url("../CSS/fonts/neue-world/NeueWorld-ExtendedThin.woff") format("woff");
+  src: url("NeueWorld-ExtendedThin.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "neueworld-SemiCondensedUltrabold";
-  src: url("../CSS/fonts/neue-world/NeueWorld-SemiCondensedUltrabold.woff")
+  src: url("NeueWorld-SemiCondensedUltrabold.woff")
     format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "neueworld-Ultrabold";
-  src: url("../CSS/fonts/neue-world/NeueWorld-Ultrabold.woff") format("woff");
+  src: url("NeueWorld-Ultrabold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "NeueWorld-SuperCondensedLight";
-  src: url("../CSS/fonts/neue-world/NeueWorld-SuperCondensedLight.woff")
+  src: url("NeueWorld-SuperCondensedLight.woff")
     format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "NeueWorld-CondensedRegular";
-  src: url("../CSS/fonts/neue-world/NeueWorld-CondensedRegular.woff")
+  src: url("NeueWorld-CondensedRegular.woff")
     format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "MonumentExtended-light";
-  src: url("../CSS/fonts/Monument/MonumentExtended-light.woff") format("woff");
+  src: url("MonumentExtended-light.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "MonumentExtended-bold";
-  src: url("../CSS/fonts/Monument/MonumentExtended-bold.woff") format("woff");
+  src: url("MonumentExtended-bold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "MonumentExtended-regular";
-  src: url("../CSS/fonts/Monument/MonumentExtended-regular.woff") format("woff");
+  src: url("MonumentExtended-regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -61,10 +61,7 @@
   /* ================================= MOBILE WEBSITE =============================== */
   /* ================================================================================ */
 
-  body {
-    background-color: #fcf8f5;
-  }
-
+ 
   /* PAGE 1 ================================ MOBILE - INDEX PAGE =============================== */
 }
 #indexbackground {
