@@ -34,19 +34,19 @@
 }
 @font-face {
   font-family: "MonumentExtended-light";
-  src: url("./MonumentExtended-light.woff") format("woff");
+  src: url("./MonumentExtended-light.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "MonumentExtended-bold";
-  src: url("./MonumentExtended-bold.woff") format("woff");
+  src: url("./MonumentExtended-bold.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "MonumentExtended-regular";
-  src: url("./MonumentExtended-regular.woff") format("woff");
+  src: url("./MonumentExtended-regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
